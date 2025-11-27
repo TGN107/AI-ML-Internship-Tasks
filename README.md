@@ -1,7 +1,7 @@
-# **AI-ML-Internship-Tasks**
-##**DevelopersHub Corporation AI/ML Engineering Internship Tasks**
+# AI-ML-Internship-Tasks
+DevelopersHub Corporation AI/ML Engineering Internship Tasks
 
-###A collection of machine learning projects completed during my internship, covering classification, regression, and time-series forecasting with real-world datasets.
+A collection of machine learning projects completed during my internship, covering classification, regression, and time-series forecasting with real-world datasets.
 
 ##  Task 1: Exploratory Data Analysis – Iris Dataset  
 **Objective**: Understand data structure, distribution, and species-separating features.  
@@ -43,9 +43,8 @@
 - **RF underperformed** (MAE: $9.91) — data is highly autocorrelated (r = 0.998).  
 - Simple linear model captures dominant trend: *“Tomorrow ≈ Today”*.
 
----
 
-## 💡 Final Insights  
+## Final Insights  
 - **Simpler models often win** when data has strong linear/trend patterns.  
 - **Data quality > model complexity**: Cleaning and feature understanding drove success.  
 - All projects include reproducible notebooks and emphasize **real-world interpretability**.
